@@ -10,7 +10,7 @@ comments: false
 
 
 * [music](https://open.spotify.com/)
-* [hiking]
-* [poetry]
+* [hiking](https://za.pinterest.com/zakvn/hiking/)
+* [poetry](www.poetry.com)
 
 
