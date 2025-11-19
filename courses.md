@@ -11,27 +11,27 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|2025|Fall  | **<a href="">nothing</a>**         |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|2025|Fall  | **<a href="/ds98/">nothing</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
+|2025|Fall  | **<a href="">nothing</a>** |
 
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">nothing</a>**         |
+|2025|Spring| **<a href="/ad97/">nothing</a>**         |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ap97/">nothing</a>** |
+|2025|Spring| **<a href="/ap97/">nothing</a>** |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/nlp97/">nothing</a>** |
+|2025|Spring| **<a href="/nlp97/">nothing</a>** |
 |----|------|--------------------------------|
-|2018|Fall  | **<a href="/ds97/">nothing</a>**            |
+|2024|Fall  | **<a href="/ds97/">nothing</a>**            |
 |----|------|--------------------------------|
-|2018|Fall  | **nothing** |
+|2024|Fall  | **nothing** |
 |----|------|--------------------------------------------|
-|2018|Fall  | **nothing** |
+|2024|Fall  | **nothing** |
 |----|------|--------------------------------------------|
-|2018|Spring| **nothing**             |
+|2024|Spring| **nothing**             |
 |----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2024|Spring| **nothing** |
