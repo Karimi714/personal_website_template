@@ -1,23 +1,19 @@
 ---
 layout: posts
-title: Test Post
+title: بلاگ پست امتحانی
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## This is me
+the picture is:
+- my painting
+- 
+- 
+- 
 
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+[my favorite website](http://www.pinterest.com)
 
 
-
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![my painting](../assets/images/my painting.jpg "painting")
 
 ---
-**Test**: This is atest
+**Test**: test
